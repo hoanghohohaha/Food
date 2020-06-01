@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "title": "BÁNH MACARON",
+    "description": "Bạn là người yêu ẩm thực Pháp? Bạn muốn làm được bánh Macaron ngon đúng điệu? Vậy thì hãy vào bếp ngay với cách làm Macaron siêu hay dưới đây, chỉ mất một chút thời gian bạn sẽ có được một món ăn thơm ngon để thưởng thức vào những dịp cuối tuần hoặc khi tụ họp gia đình, bạn bè.",
+    "img": "https://i.ebayimg.com/images/g/6~gAAOSwo2pc6vDC/s-l300.jpg",
+    "cuisine": [
+      "FRENCH"
+    ],
+    "ingredients": {
+      "Bột hạnh nhân": "150 gram",
+      "Icing sugar": "150 gram",
+      "Lòng trắng trứng": "110 gram",
+      "Đường cát trắng": "150 gram",
+      "Whipping Cream": "400 ml",
+      "Nước": "40 ml",
+      "Chocolate trắng": "600 gram",
+      "Chocolate đen": "200 gram",
+      "Bơ": "40 gram",
+      "Mứt Dâu": "100 gram",
+      "Mứt Viêt Quất": "100 gram"
+    },
+    "intruction": [
+      "Làm Hỗn Hợp Bột Và Đun Chảy Socola",
+      "Cho bột hạnh nhân và icing sugar vào máy xay sinh tố, xay nhuyễn ra. Sau đó, lọc hỗn hợp qua rây.",
+      "Đun cách thủy wipping cream và bơ, khuấy đều để bơ tan chảy và nguyên liệu hòa quyện vào nhau hoàn toàn.",
+      "Tiếp theo, làm tan chảy chocolate trắng bằng phương pháp đun cách thủy. Làm tương tự như vậy với chocolate đen. Lưu ý là phải khuấy liên tục trong quá trình đun.",
+      "Làm Vỏ Bánh",
+      "Đun sôi đường với nước đến 1180C thì tắt bếp. Dùng máy đánh trứng đánh bông 50 gram lòng trắng rồi từ từ đổ nước đường vào, vừa đổ vừa đánh.",
+      "Thêm một ít màu thực phẩm vào, tiếp tục đánh đều lên để tạo màu cho vỏ bánh thật đẹp và bắt mắt. Thêm 60 gram lòng trắng trứng còn lại vào hỗn hợp bột hạnh nhân và icing sugar, trộn đều rồi tiếp tục cho hỗn hợp vỏ bánh vào, trộn nhẹ nhàng đến khi các nguyên liệu hòa quyện vào nhau và nhuyễn mịn.",
+      "Tạo Hình Và Nướng Bánh",
+      "Cho hết hỗn hợp vỏ bánh vào bao tam giác có gắn đuôi bắt kem. Lót giấy nến lên khay nướng, từ từ nặn hỗn hợp bột thành những hình tròn nhỏ nhắn.",
+      "Bật sẵn lò nướng ở 1500C trước 10 phút rồi cho khay vào nướng khoảng 12 phút.",
+      "Làm Nhân Bánh",
+      "Đun cách thủy whipping cream và bơ rồi cho vào âu đựng chocolate trắng, khuấy đều đến khi hỗn hợp có màu vàng đẹp mắt và nhuyễn mịn. Đây là nhân white ganache.",
+      "Sau đó, chia white ganache ra thành ba phần, một phần trộn với mứt dâu để làm nhân strawberry ganache, một phần trộn với mứt việt quất thành nhân blurberry ganache, phần còn lại giữ nguyên.",
+      "Tiếp tục thêm 100ml whipping cream và 20 gram bơ đun cách thủy vào âu đựng chocolate đen, trộn đều để làm nhân dark ganache.",
+      "Vào Bánh",
+      "Cho nhân bánh vào các túi tam giác, nhẹ nhàng nặn lên một mặt của chiếc bánh rồi úp chiếc bánh khác lên trên. Lưu ý là bạn không nên cho quá nhiều nhân vì sẽ dễ bị trào ra ngoài và trông thành phẩm sẽ không đẹp."
+    ],
+    "link": "https://www.youtube.com/watch?v=MFyc72Bfqbs"
+  },
+  {
+    "id": 1,
+    "title": "BÒ XỐT VANG",
+    "description": "Món bò sốt vang được rất nhiều người yêu thích bởi hương vị thơm ngon, đậm đà, ăn cùng cơm trắng hoặc bánh mì đều tuyệt ngon. Cách nấu thịt bò sốt vang miền Bắc hơi cầu kỳ nhưng không khó thực hiện, mọi người hãy thử nhé!",
+    "img": "",
+    "cuisine": [
+      "VIETNAM"
+    ],
+    "ingredients": {
+      "Gân Bò": "600 grams",
+      "Xốt gia vị bò kho": "1 gói",
+      "Carrot": "1 củ",
+      "Khoai tây": "2 củ",
+      "Nước": "800 ml",
+      "Nước bột nặng": "20 ml",
+      "Rượu vang trắng": "30 ml"
+    },
+    "intruction": [
+      "Đun sôi nước lọc với 30ml rượu trắng và vài lát gừng tươi; Sau đó, cho 600g gân bò vào luộc 5 phút",
+      "Tiếp theo, cắt khúc gân bò đã luộc và ướp với 4 thìa canh xốt Bò kho trong vòng 30 phút",
+      "Cắt khúc cà rốt",
+      "Cắt khúc khoai tây",
+      "Phi thơm sả băm , tỏi băm và cho thịt đã ướp vào xào sơ",
+      "Tiếp đến, cho 800ml nước dùng luộc bò và ninh trong vòng 40 – 45 phút",
+      "Sau 45 phút, cho cà rốt và khoai tây vào và ninh đến khi mềm",
+      "Cuối cùng, thưởng thức với bánh mì"
+    ],
+    "link": "https://www.youtube.com/watch?v=6kx7Ij8eJBE"
+  },
+  {
+    "id": 2,
+    "title": "BÁNH MÌ NƯỚNG (Croque Monsieur)",
+    "description": "Croque Monsieur – món bánh mì được yêu chuộng nhất ở Pháp. Với sự kết hợp hoàn hảo của bánh mì nướng, giăm bông cùng nước sốt phô mai béo ngậy đảm bảo các bạn sẽ không thể cưỡng lại được. Ngoài ra, món ăn này còn mang đầy đủ giá trị dinh dưỡng phù hợp cho những ai bận rộn không đủ thời gian để nấu nướng.",
+    "img": "",
+    "cuisine": [
+      "FRENCH",
+      "VIETNAM"
+    ],
+    "ingredients": {
+      "Phô mai Gruyere": "100 gram",
+      "Thịt giăm bông": "30 gram",
+      "Bánh mì gối": "4 lát"
+    },
+    "intruction": [
+      "Bắt đầu chuẩn bị nước sốt Bechamel: Đổ sữa vào nồi rồi đun nóng, để lửa nhỏ. Sau đó thêm muối vừa ăn và hạt nhục đậu khấu nghiền.",
+      "Bơ đặt vào lò vi sóng khoảng 30 giây để công suất lớn nhất cho tan chảy rồi cho vào 1 nồi khác (hoặc có thể làm bơ chảy bằng cách đun trực tiếp trong nồi cũng được) . Tiếp đến thêm bột vào và khuấy đều",
+      "Khi hỗn hợp bột đều thì các bạn đổ sữa vừa đun nóng vào, khuấy đều cho đến khi hỗn hợp hơi đặc sánh lại rồi tắt bếp để nguôị",
+      "Đem pho mai Gruyere đi bào nhỏ",
+      "Lấy 2 lát bánh mì gối rồi phết sốt bechamel đều khắp mặt bánh",
+      "Tiếp đến cho thịt giăm bông và pho mai Gruyere vào",
+      "Cuối cùng đặt nốt 2 lát bánh gồi còn lại lên trên",
+      "Phết thêm 1 lớp nước sốt bechamel lên trên rồi thêm 1 lớp pho mai nữa. Sau đó đặt vào khay nướng có lót sẵn giấy nướng, để vào lò trong khoảng 3-5 phút hoặc đến khi pho mai tan chảy hết, hơi nâu vàng"
+    ],
+    "link": "https://www.youtube.com/watch?v=Mr_vDA-MUzM"
+  }
+]
