@@ -31,10 +31,10 @@ const useStyle = makeStyles((theme) => ({
     frameborder: '0'
   },
   IMGbk: {
-    backgroundImage: `url('https://miro.medium.com/max/5600/1*16t29ZDWaOQgBqBR7fmYPw@2x.png')`,
+    backgroundImage: `url('https://scontent.fhan2-1.fna.fbcdn.net/v/t1.15752-9/86729468_1313462965495542_7768318764298272768_n.jpg?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=zdkVfIpsdw4AX_OPPl9&_nc_ht=scontent.fhan2-1.fna&oh=c07f8b1b536216d8cf7af1e5a723eb69&oe=5EFA4D2B')`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
-    height: '400px'
+    height: '700px'
   },
   hr: {
     margin: '7vh 0 7vh 0'
@@ -86,7 +86,7 @@ export default function About() {
         <Grid item xs={4}>
           <Card className={classes.container}>
 
-            <Avatar className={classes.badge} src=''></Avatar>
+            <Avatar className={classes.badge} src='https://scontent.fhan2-4.fna.fbcdn.net/v/t1.15752-9/86601682_803862880024275_4450090137363152896_n.jpg?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=gOCBTlDvhQ0AX9TAuYQ&_nc_ht=scontent.fhan2-4.fna&oh=63e5d6c42aa7502b0e7bd9a0bf5d9fee&oe=5EF9E733'></Avatar>
 
             <CardContent>
               <Typography className={classes.name} >Son Nguyen</Typography>
