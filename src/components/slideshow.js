@@ -56,17 +56,17 @@ export default function slideshow() {
         <Slide {...properties}>
           <div className="each-slide">
             <div style={{ 'backgroundImage': `url(${slideImages[0]})` }} className={classes.slidecontainer}>
-              <div className={classes.textcontainer}><div className={classes.text}>Gia vi tuyet voi</div></div>
+              <div className={classes.textcontainer}><div className={classes.text}>Gia vị tuyệt vời</div></div>
             </div>
           </div>
           <div className="each-slide">
             <div style={{ 'backgroundImage': `url(${slideImages[1]})` }} className={classes.slidecontainer}>
-              <div className={classes.textcontainer}><div className={classes.text}>Du Dinh Duong</div></div>
+              <div className={classes.textcontainer}><div className={classes.text}>Đầy Đủ Dinh Dương</div></div>
             </div>
           </div>
           <div className="each-slide">
             <div style={{ 'backgroundImage': `url(${slideImages[2]})` }} className={classes.slidecontainer}>
-              <div className={classes.textcontainer}><div className={classes.text}>Gia Re Sach</div></div>
+              <div className={classes.textcontainer}><div className={classes.text}>Ngon Rẻ Sạch</div></div>
             </div>
           </div>
         </Slide>

@@ -30,6 +30,12 @@ const useStyles = makeStyles((theme) => ({
   dropdownbox: {
     background: 'black',
     fontFamily: `'Courier New', Courier, monospace`,
+    transition: 'all .3s ease',
+    '&:hover': {
+      background: 'black',
+    }
+  },
+  linktext: {
     color: 'white',
     transition: 'all .3s ease',
     '&:hover': {
@@ -64,12 +70,12 @@ export default function Header() {
               open={Boolean(anchorEl)}
               onClose={handleClose}
             >
-              <MenuItem onClick={handleClose} className={classes.dropdownbox}>FRENCH</MenuItem>
-              <MenuItem onClick={handleClose} className={classes.dropdownbox}>VIETNAM</MenuItem>
-              <MenuItem onClick={handleClose} className={classes.dropdownbox}>CHINESE</MenuItem>
-              <MenuItem onClick={handleClose} className={classes.dropdownbox}>ITALY</MenuItem>
-              <MenuItem onClick={handleClose} className={classes.dropdownbox}>KOREAN</MenuItem>
-              <MenuItem onClick={handleClose} className={classes.dropdownbox}>JAPAN</MenuItem>
+              <MenuItem className={classes.dropdownbox}><Button href='/cuisine/french' className={classes.linktext}> FRENCH</Button></MenuItem>
+              <MenuItem className={classes.dropdownbox}><Button href='/cuisine/vietnam' className={classes.linktext}> VIETNAM</Button></MenuItem>
+              <MenuItem className={classes.dropdownbox}><Button href='/cuisine/chinese' className={classes.linktext}> CHINESE</Button></MenuItem>
+              <MenuItem className={classes.dropdownbox}><Button href='/cuisine/italy' className={classes.linktext}> ITALY</Button></MenuItem>
+              <MenuItem className={classes.dropdownbox}><Button href='/cuisine/korean' className={classes.linktext}> KOREAN</Button></MenuItem>
+              <MenuItem className={classes.dropdownbox}><Button href='/cuisine/japan' className={classes.linktext}> JAPAN</Button></MenuItem>
             </Menu>
 
             <FastfoodIcon />

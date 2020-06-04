@@ -60,10 +60,10 @@ export default function About() {
       <Grid className={classes.IMGbk}>
       </Grid>
       <hr className={classes.hr}></hr>
-      <Grid>
+      <Grid id='contact'>
         <iframe className={classes.map} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1862.1190652347232!2d105.81244065825418!3d21.023155750170584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x39e02f427f6f3b62!2sMindX%20Technology!5e0!3m2!1sen!2s!4v1591022049191!5m2!1sen!2s"></iframe>
       </Grid>
-      <Grid container justify='space-evenly'>
+      <Grid container justify='space-evenly' id='team'>
         <Grid item xs={4}>
           <Card className={classes.container}>
             <Avatar className={classes.badge} src='https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-9/88217565_945790379169116_5229330374613532672_n.jpg?_nc_cat=110&_nc_sid=174925&_nc_ohc=6R3OHpuqMHAAX-HlPfi&_nc_ht=scontent.fhan2-2.fna&oh=129ed1fb675519c1c9cecd06d223d5b9&oe=5EFB5616'></Avatar>
@@ -104,4 +104,3 @@ export default function About() {
     </div>
   )
 }
-// width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"

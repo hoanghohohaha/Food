@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, BrowserRouter as Router, Route } from 'react-router-dom';
+import { Switch, BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import './App.css';
 import Home from './pages/home';
 import About from './pages/about';
@@ -7,6 +7,9 @@ import Random from './pages/randompage';
 import Header from './components/header'
 import Footer from './components/footer';
 import Searchresult from './pages/searchpage';
+import Category from './pages/content';
+import Cuisine from './pages/cuisine'
+
 
 function App() {
   return (
@@ -26,6 +29,9 @@ function App() {
           <Route exact path='/search'>
             <Searchresult />
           </Route>
+          <Route path='/meal/:id' component={Category}>
+          </Route>
+          <Route path='/cuisine/:cuisineId' component={Cuisine}></Route>
         </Switch>
       </Router>
       <Footer></Footer>

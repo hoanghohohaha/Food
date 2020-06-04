@@ -54,7 +54,7 @@ function Randommeal(props) {
 
   props.props.cuisine.map((e, index) => {
     console.log(e);
-    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button className={classes.btn}><Link>{e}</Link></Button></Grid>];
+    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/cuisine/` + e} className={classes.btn}><Link>{e}</Link></Button></Grid>];
   })
 
   props.props.intruction.map((e, index) => {

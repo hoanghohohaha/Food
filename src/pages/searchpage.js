@@ -1,36 +1,17 @@
 import React, { useState } from 'react';
 import Food from '../data/Food.json';
 
-import { Grid, Card, Avatar, CardContent, Typography, Paper, Switch } from '@material-ui/core';
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
-import Home from './home';
+import { Grid } from '@material-ui/core';
+import ResultCard from '../components/card';
 
-function ResultCard(data) {
-  return (
-    <Paper>
-      <Card>
-        <Avatar src={data.img}></Avatar>
-        <CardContent>
-          <Typography>
-            <Router>
-              <Link to={`/search/` + data.id}>{data.title}</Link>
-              <Route path='/search/:dataId'>
-                <Home />
-              </Route>
-            </Router>
+// import { makeStyles } from '@material-ui/core/styles';
 
-          </Typography>
-          <Typography>
-            {data.description}
-          </Typography>
-        </CardContent>
-      </Card>
-    </Paper>
+// const useStyle = makeStyles((theme) => ({
 
-  )
-}
+// }))
 
 export default function Searchresult() {
+  // const classes = useStyle();
   const [searchInput, updateInput] = useState('');
   const items = Food.filter((data) => {
     if (searchInput == null)
@@ -44,21 +25,11 @@ export default function Searchresult() {
       <form>
         <input value={searchInput} onChange={e => updateInput(e.target.value)}></input>
       </form>
-      <Grid container>
+      <Grid container justify='space-evenly'>
         {items.map(e =>
-          <Grid item xs={4} key={e.id}>{ResultCard(e)}</Grid>
+          <Grid item xs={3} key={e.id}>{ResultCard(e)}</Grid>
         )}
       </Grid>
-      <Router>
-
-        {
-          items.map(e =>
-            <Route path='/search/:id' >
-            </Route>
-          )
-        }
-
-      </Router>
     </>
   )
 }

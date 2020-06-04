@@ -52,9 +52,9 @@ export default function StickyFooter() {
         <Grid container justify='space-evenly'>
           <Grid item xs={3} className={classes.footercard}>
             <Typography variant='h6'><b>Healthy Meal</b></Typography>
-            <a className={classes.footerlink} href="/aboutus">About us</a>
-            <a className={classes.footerlink} href="/aboutus">Contact</a>
-            <a className={classes.footerlink} href="/aboutus">Our team</a>
+            <a className={classes.footerlink} href="/about">About us</a>
+            <a className={classes.footerlink} href="/about#contact">Contact</a>
+            <a className={classes.footerlink} href="/about#team">Our team</a>
           </Grid>
           <Grid item xs={3} className={classes.footercard}>
             <Typography variant='h6'><b>Follow Us</b></Typography>

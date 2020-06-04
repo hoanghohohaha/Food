@@ -44,9 +44,10 @@
     "id": 1,
     "title": "BÒ XỐT VANG",
     "description": "Món bò sốt vang được rất nhiều người yêu thích bởi hương vị thơm ngon, đậm đà, ăn cùng cơm trắng hoặc bánh mì đều tuyệt ngon. Cách nấu thịt bò sốt vang miền Bắc hơi cầu kỳ nhưng không khó thực hiện, mọi người hãy thử nhé!",
-    "img": "",
+    "img": "https://phunudep24h.com/wp-content/uploads/2018/06/cach-nau-bo-sot-vang-thom-lung-goc-pho-2.jpg",
     "cuisine": [
-      "VIETNAM"
+      "VIETNAM",
+      "FRENCH"
     ],
     "ingredients": {
       "Gân Bò": "600 grams",
@@ -73,10 +74,9 @@
     "id": 2,
     "title": "BÁNH MÌ NƯỚNG (Croque Monsieur)",
     "description": "Croque Monsieur – món bánh mì được yêu chuộng nhất ở Pháp. Với sự kết hợp hoàn hảo của bánh mì nướng, giăm bông cùng nước sốt phô mai béo ngậy đảm bảo các bạn sẽ không thể cưỡng lại được. Ngoài ra, món ăn này còn mang đầy đủ giá trị dinh dưỡng phù hợp cho những ai bận rộn không đủ thời gian để nấu nướng.",
-    "img": "",
+    "img": "https://toinayangi.vn/wp-content/uploads/2016/03/cach-lam-banh-mi-croque-monsieur-2.jpg",
     "cuisine": [
-      "FRENCH",
-      "VIETNAM"
+      "FRENCH"
     ],
     "ingredients": {
       "Phô mai Gruyere": "100 gram",
