@@ -6,8 +6,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import Menu from '@material-ui/core/Menu';
 import MenuItem from '@material-ui/core/MenuItem';
 
-import InputBase from '@material-ui/core/InputBase';
-
 import FastfoodIcon from '@material-ui/icons/Fastfood';
 import SearchIcon from '@material-ui/icons/Search';
 
@@ -22,14 +20,12 @@ const useStyles = makeStyles((theme) => ({
     color: 'white',
     fontFamily: `'Courier New', Courier, monospace`,
     fontWeight: 'bold',
+    marginLeft: '3vw',
     transition: 'all .3s ease',
     '&:hover': {
       fontSize: 'larger',
       textDecoration: 'underline'
     },
-  },
-  itemcontainer: {
-    marginLeft: '3vw',
   },
   dropdownbox: {
     background: 'black',
@@ -61,6 +57,7 @@ export default function Header() {
         <AppBar className={classes.grow}>
           <Toolbar>
             <Menu
+              style={{ left: '150px' }}
               id="simple-menu"
               anchorEl={anchorEl}
               transitionDuration={500}
@@ -76,25 +73,17 @@ export default function Header() {
             </Menu>
 
             <FastfoodIcon />
-            <Typography className={classes.itemcontainer}><Link to='/' className={classes.itemtext}>FOODRECIPE</Link></Typography>
-            <Button className={classes.itemcontainer}><Link to='/' className={classes.itemtext} >HOME</Link></Button>
-            <Button className={classes.itemcontainer}><Link to='/about' className={classes.itemtext}>ABOUT</Link></Button>
-            <Button className={classes.itemcontainer}><Link to='/random' className={classes.itemtext}>RANDOM</Link></Button>
-            <Button className={classes.itemcontainer} aria-controls="simple-menu" aria-haspopup="true" onClick={handleClick}><Typography className={classes.itemtext}>CUISINE</Typography></Button>
+            <Typography className={classes.itemcontainer}><a href='/' className={classes.itemtext}>FOODRECIPE</a></Typography>
+            <Button ><a href='/' className={classes.itemtext} >HOME</a></Button>
+            <Button ><a href='/about' className={classes.itemtext}>ABOUT</a></Button>
+            <Button ><a href='/random' className={classes.itemtext}>RANDOM</a></Button>
+            <Button aria-controls="simple-menu" aria-haspopup="true" onClick={handleClick}><Typography className={classes.itemtext}>CUISINE</Typography></Button>
             <div style={{ right: '0px', position: 'absolute', }}>
-              <InputBase style={{
-                background: 'white'
-              }}
-                placeholder="Search…"
-                inputProps={{ 'aria-label': 'search' }}
-              />
-              <IconButton>
+              <IconButton href='/search'>
                 <SearchIcon style={{ color: 'white' }} />
               </IconButton>
             </div>
           </Toolbar>
-
-
         </AppBar>
       </Paper>
     </>

@@ -3,7 +3,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import Randommeal from '../components/randommeal';
 import Food from '../data/Food.json'
 import { Button, Grid } from '@material-ui/core';
-import Header from "../components/header";
 
 const useStyles = makeStyles((theme) => ({
   btn: {
@@ -26,7 +25,6 @@ export default function Random() {
   const classes = useStyles()
   return (
     <>
-      <Header></Header>
       <div id='random' style={{ margin: '5vh 15vh' }}>
         <Randommeal props={detail} />
         <Grid>
