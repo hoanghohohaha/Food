@@ -1,5 +1,4 @@
 import React from "react";
-import Header from '../components/header';
 import { Grid, Card, Typography, Avatar, CardContent, IconButton } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import FacebookIcon from '@material-ui/icons/Facebook';
@@ -47,7 +46,6 @@ export default function About() {
 
   return (
     <div>
-      <Header></Header>
       <hr className={classes.hr}></hr>
       <Grid>
         <Typography variant='h1'>ABOUT US</Typography>

@@ -1,7 +1,6 @@
 import React from "react";
 import { Button, Grid, Typography } from "@material-ui/core";
 import Slideshow from '../components/slideshow';
-import Header from '../components/header';
 import { makeStyles } from '@material-ui/core/styles';
 
 
@@ -29,8 +28,7 @@ export default function Home() {
 
   return (
     <div>
-      <Header></Header>
-      <Slideshow></Slideshow>
+      <Slideshow />
       <hr></hr>
       <Grid>
         <Grid>
