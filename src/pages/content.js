@@ -109,7 +109,7 @@ const Category = ({ match }) => {
             {cuisine}
           </Grid>
           <Grid>
-            <Button href='/#/' className={classes.homebtn}>Home</Button>
+            <Button href='/' className={classes.homebtn}>Home</Button>
           </Grid>
         </>
       )}
