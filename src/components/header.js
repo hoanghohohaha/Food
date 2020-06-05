@@ -82,7 +82,7 @@ export default function Header() {
             <Button ><a href='/' className={classes.itemtext} >HOME</a></Button>
             <Button ><a href='/about' className={classes.itemtext}>ABOUT</a></Button>
             <Button ><a href='/random' className={classes.itemtext}>RANDOM</a></Button>
-            <Button aria-controls="simple-menu" aria-haspopup="true" onClick={handleClick}><Typography className={classes.itemtext}>CUISINE</Typography></Button>
+            <Button aria-controls="simple-menu" aria-haspopup="true" onClick={handleClick}><a className={classes.itemtext}>CUISINE</a></Button>
             <div style={{ right: '0px', position: 'absolute', }}>
               <IconButton href='/search'>
                 <SearchIcon style={{ color: 'white' }} />
