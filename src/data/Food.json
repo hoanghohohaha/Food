@@ -7,19 +7,19 @@
     "cuisine": [
       "FRENCH"
     ],
-    "ingredients": {
-      "Bột hạnh nhân": "150 gram",
-      "Icing sugar": "150 gram",
-      "Lòng trắng trứng": "110 gram",
-      "Đường cát trắng": "150 gram",
-      "Whipping Cream": "400 ml",
-      "Nước": "40 ml",
-      "Chocolate trắng": "600 gram",
-      "Chocolate đen": "200 gram",
-      "Bơ": "40 gram",
-      "Mứt Dâu": "100 gram",
-      "Mứt Viêt Quất": "100 gram"
-    },
+    "ingredients": [
+      "Bột hạnh nhân: 150 gram",
+      "Icing sugar: 150 gram",
+      "Lòng trắng trứng: 110 gram",
+      "Đường cát trắng: 150 gram",
+      "Whipping Cream: 400 ml",
+      "Nước: 40 ml",
+      "Chocolate trắng: 600 gram",
+      "Chocolate đen: 200 gram",
+      "Bơ: 40 gram",
+      "Mứt Dâu: 100 gram",
+      "Mứt Viêt Quất: 100 gram"
+    ],
     "intruction": [
       "Làm Hỗn Hợp Bột Và Đun Chảy Socola",
       "Cho bột hạnh nhân và icing sugar vào máy xay sinh tố, xay nhuyễn ra. Sau đó, lọc hỗn hợp qua rây.",
@@ -49,15 +49,15 @@
       "VIETNAM",
       "FRENCH"
     ],
-    "ingredients": {
-      "Gân Bò": "600 grams",
-      "Xốt gia vị bò kho": "1 gói",
-      "Carrot": "1 củ",
-      "Khoai tây": "2 củ",
-      "Nước": "800 ml",
-      "Nước bột nặng": "20 ml",
-      "Rượu vang trắng": "30 ml"
-    },
+    "ingredients": [
+      "Gân Bò: 600 grams",
+      "Xốt gia vị bò kho: 1 gói",
+      "Carrot: 1 củ",
+      "Khoai tây: 2 củ",
+      "Nước: 800 ml",
+      "Nước bột nặng: 20 ml",
+      "Rượu vang trắng: 30 ml"
+    ],
     "intruction": [
       "Đun sôi nước lọc với 30ml rượu trắng và vài lát gừng tươi; Sau đó, cho 600g gân bò vào luộc 5 phút",
       "Tiếp theo, cắt khúc gân bò đã luộc và ướp với 4 thìa canh xốt Bò kho trong vòng 30 phút",
@@ -78,11 +78,11 @@
     "cuisine": [
       "FRENCH"
     ],
-    "ingredients": {
-      "Phô mai Gruyere": "100 gram",
-      "Thịt giăm bông": "30 gram",
-      "Bánh mì gối": "4 lát"
-    },
+    "ingredients": [
+      "Phô mai Gruyere: 100 gram",
+      "Thịt giăm bông: 30 gram",
+      "Bánh mì gối: 4 lát"
+    ],
     "intruction": [
       "Bắt đầu chuẩn bị nước sốt Bechamel: Đổ sữa vào nồi rồi đun nóng, để lửa nhỏ. Sau đó thêm muối vừa ăn và hạt nhục đậu khấu nghiền.",
       "Bơ đặt vào lò vi sóng khoảng 30 giây để công suất lớn nhất cho tan chảy rồi cho vào 1 nồi khác (hoặc có thể làm bơ chảy bằng cách đun trực tiếp trong nồi cũng được) . Tiếp đến thêm bột vào và khuấy đều",
