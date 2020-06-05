@@ -41,7 +41,7 @@ export default function Home() {
           <Button href='/random ' className={classes.btntext}>Click here</Button>
         </Grid>
       </Grid>
-      <hr></hr>
+      <hr style={{ marginBottom: '5vh' }}></hr>
     </div >
   )
 }

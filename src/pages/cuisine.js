@@ -1,7 +1,17 @@
 import React from "react";
 import Food from '../data/Food.json';
 import { Grid, Typography } from '@material-ui/core';
-import ResultCard from '../components/card'
+import ResultCard from '../components/card';
+import { makeStyles } from '@material-ui/core/styles';
+
+const useStyle = makeStyles((theme) => ({
+  text: {
+    fontSize: theme.spacing(5),
+    margin: '3vh auto',
+    fontWeight: 'bold',
+    fontFamily: `'Courier New', Courier, monospace`,
+  }
+}))
 
 
 const Cuisine = ({ match }) => {
@@ -11,18 +21,18 @@ const Cuisine = ({ match }) => {
   });
   console.log(data);
   console.log(match.params.cuisineId);
-
+  const classes = useStyle()
 
   return (
     <>
       {match.isExact && (
         <>
           <Grid>
-            <Typography>{match.params.cuisineId.toUpperCase()}</Typography>
+            <Typography className={classes.text}>{match.params.cuisineId.toUpperCase()}</Typography>
           </Grid>
           <Grid container justify='space-evenly'>
             {data.map(e =>
-              <Grid item xs={3} key={e.id}>{ResultCard(e)}</Grid>
+              <Grid item xs={3} key={e.id}><ResultCard props={e} /></Grid>
             )}
           </Grid>
         </>
