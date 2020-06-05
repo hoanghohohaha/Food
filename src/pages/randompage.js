@@ -28,10 +28,10 @@ export default function Random() {
       <div id='random' style={{ margin: '5vh 15vh' }}>
         <Randommeal props={detail} />
         <Grid>
-          <Button className={classes.btn} onClick={() => { window.location.reload(); }}>Again</Button>
+          <Button className={classes.btn} onClick={() => { window.location.reload(); document.documentElement.scrollTop = 0 }}>Again</Button>
         </Grid>
         <Grid>
-          <Button href='/' className={classes.btn}>Home</Button>
+          <Button href='/#/' className={classes.btn}>Home</Button>
         </Grid>
       </div>
     </>

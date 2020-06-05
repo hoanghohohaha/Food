@@ -46,6 +46,7 @@ function Randommeal(props) {
 
   var cuisine = []
   var todo = []
+  var allingre = []
 
   var k = Math.floor(Math.random() * Food.length);
   var detail = Food[k];
@@ -54,7 +55,12 @@ function Randommeal(props) {
 
   props.props.cuisine.map((e, index) => {
     console.log(e);
-    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/cuisine/` + e} className={classes.btn}><Link>{e}</Link></Button></Grid>];
+    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/#/cuisine/` + e} className={classes.btn}><Link>{e}</Link></Button></Grid>];
+  })
+
+  props.props.ingredients.map((e, index) => {
+    console.log(e);
+    allingre = [...allingre, <Typography style={{ textAlign: 'center', listStyle: 'none', fontFamily: `'Courier New', Courier, monospace`, fontSize: 'large' }} id={index}>{e}</Typography>]
   })
 
   props.props.intruction.map((e, index) => {
@@ -71,6 +77,10 @@ function Randommeal(props) {
       </Grid>
       <Grid>
         <Typography className={classes.description}>{props.props.description}</Typography>
+      </Grid>
+      <Grid>
+        <Typography variant='h4' className={classes.description}><b> Nguyên Liệu </b></Typography>
+        <Grid>{allingre}</Grid>
       </Grid>
       <div className={classes.steps}>
         <Grid>

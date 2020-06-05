@@ -66,9 +66,16 @@ const Category = ({ match }) => {
 
   var cuisine = []
   var todo = []
+  var allingre = []
+
   data.cuisine.map((e, index) => {
     console.log(e);
-    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/cuisine/` + e} className={classes.btn}><Link>{e}</Link></Button></Grid>];
+    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/#/cuisine/` + e} className={classes.btn}><Link>{e}</Link></Button></Grid>];
+  })
+
+  data.ingredients.map((e, index) => {
+    console.log(e);
+    allingre = [...allingre, <Typography style={{ textAlign: 'center', listStyle: 'none', fontFamily: `'Courier New', Courier, monospace`, fontSize: 'large' }} id={index}>{e}</Typography>]
   })
 
   data.intruction.map((e, index) => {
@@ -85,6 +92,10 @@ const Category = ({ match }) => {
           <Grid>
             <Typography className={classes.description}>{data.description}</Typography>
           </Grid>
+          <Grid>
+            <Typography variant='h4' className={classes.description}><b> Nguyên Liệu </b></Typography>
+            <Grid>{allingre}</Grid>
+          </Grid>
           <div className={classes.steps}>
             <Grid>
               {todo}
@@ -98,7 +109,7 @@ const Category = ({ match }) => {
             {cuisine}
           </Grid>
           <Grid>
-            <Button href='/' className={classes.homebtn}>Home</Button>
+            <Button href='/#/' className={classes.homebtn}>Home</Button>
           </Grid>
         </>
       )}

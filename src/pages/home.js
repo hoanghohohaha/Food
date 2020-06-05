@@ -38,7 +38,7 @@ export default function Home() {
           </Typography>
         </Grid>
         <Grid>
-          <Button href='/random ' className={classes.btntext}>Click here</Button>
+          <Button href='/#/random ' className={classes.btntext}>Click here</Button>
         </Grid>
       </Grid>
       <hr style={{ marginBottom: '5vh' }}></hr>
