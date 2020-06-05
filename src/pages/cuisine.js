@@ -48,7 +48,7 @@ const Cuisine = ({ match }) => {
             )}
           </Grid>
           <Grid>
-            <Button href='/#/' className={classes.btn}>Home</Button>
+            <Button href='/' className={classes.btn}>Home</Button>
           </Grid>
         </>
       )}

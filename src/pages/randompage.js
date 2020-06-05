@@ -31,7 +31,7 @@ export default function Random() {
           <Button className={classes.btn} onClick={() => { window.location.reload(); document.documentElement.scrollTop = 0 }}>Again</Button>
         </Grid>
         <Grid>
-          <Button href='/#/' className={classes.btn}>Home</Button>
+          <Button href='/' className={classes.btn}>Home</Button>
         </Grid>
       </div>
     </>
