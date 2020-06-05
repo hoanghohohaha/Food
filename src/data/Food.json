@@ -47,7 +47,9 @@
     "img": "https://phunudep24h.com/wp-content/uploads/2018/06/cach-nau-bo-sot-vang-thom-lung-goc-pho-2.jpg",
     "cuisine": [
       "VIETNAM",
-      "FRENCH"
+      "FRENCH",
+      "KOREAN",
+      "ITALY"
     ],
     "ingredients": [
       "Gân Bò: 600 grams",
@@ -94,5 +96,355 @@
       "Phết thêm 1 lớp nước sốt bechamel lên trên rồi thêm 1 lớp pho mai nữa. Sau đó đặt vào khay nướng có lót sẵn giấy nướng, để vào lò trong khoảng 3-5 phút hoặc đến khi pho mai tan chảy hết, hơi nâu vàng"
     ],
     "link": "https://www.youtube.com/watch?v=Mr_vDA-MUzM"
+  },
+  {
+    "id": 3,
+    "title": "BÁNH CREPÉ",
+    "description": "Bánh nào vừa ngon, đơn giản, lại dễ làm. Hôm nay chúng tôi sẽ giới thiệu với mọi người cách làm bánh crepe nhé. Món này vừa có thể ăn mặn, ăn ngọt, và biến tấu thêm hương vị yêu thích từ công thức bánh crepe classic như crepe lá dứa, bánh crepe sầu riêng, bánh crepe chuối…",
+    "img": "https://www.fifteenspatulas.com/wp-content/uploads/2010/12/Crepes-Fifteen-Spatulas-1.jpg",
+    "cuisine": [
+      "FRENCH"
+    ],
+    "ingredients": [
+      "Bột mì đa dụng: 140 grams",
+      "Sữa tươi: 375ml",
+      "Trứng: 2 quả",
+      "Muối",
+      "Bơ: 30 gram",
+      "Đường: 15 grams",
+      "Hương vani: 5ml",
+      "Dầu ăn"
+    ],
+    "intruction": [
+      "Cho tất cả các nguyên liệu đã đong sẵn vào một tô trộn lớn và dùng phới lồng/ máy đánh trứng trộn đều khoảng 20 giây. Để nhanh hơn, bạn có thể dùng máy xay sinh tố nha. Nếu thích ăn crepe mặn, bạn đừng bỏ đường và vani vào nhé.",
+      "Sau khi trộn đều mọi thứ, bạn sẽ được một hỗn hợp bánh hơi lỏng. Đậy kín lại và cất vào tủ lạnh ít nhất 30 phút trước khi làm tiếp. Hoặc bạn có thể làm từ tối hôm trước và để trong tủ qua đêm, sáng hôm sau chỉ việc đưa bánh lên chảo là có bữa sáng nóng sốt liền",
+      "Chuẩn bị sẵn bếp, chảo, dầu ăn, phới lật và một tấm lưới làm nguôi bánh. Đảm bảo mọi thứ trong tầm với nhé, vì bánh sẽ chín rất nhanh đấy. Hỗn hợp bột nên để sẵn trong cốc đong để mỗi lần bạn rót bột bánh vào chảo sẽ ước lượng được một lượng khoảng ¼ cup bột, tránh đổ bột quá nhiều hoặc quá ít.",
+      "Bật bếp ở mức nhiêt vừa (medium heat), bắc chảo lên và phủ đáy chảo một lớp mỏng dầu ăn. Đơi khoảng 1 phút cho chảo và dầu nóng đều thì đổ khoảng ¼ cup bột vào chảo. Nhanh tay xoáy đều chảo để bột trải đều và phẳng.",
+      "Nhấc bánh ra khỏi chảo, để vào lưới cho nguội. Trong lúc đó bạn tiếp tục làm bánh crepe với số bột còn lại. Nếu cần có thể thêm dầu ăn để chảo bớt dính."
+    ],
+    "link": "https://www.youtube.com/watch?v=WtbZjSM51yM"
+  },
+  {
+    "id": 4,
+    "title": "BÁNH MÌ PAIN AU CHOCOLATE",
+    "description": "Bánh mỳ pain au chocolate – tinh hoa của ẩm thực Pháp và là món bánh được xếp vào 1 trong 7 món ngon Paris dành cho người hảo ngọt. Bánh mỳ pain au chocolate trong tiếng Pháp có nghĩa là “bánh mỳ chocolate”. ",
+    "img": "https://cf.shopee.vn/file/efc070a56c83776add9f230e0b912922",
+    "cuisine": [
+      "FRENCH"
+    ],
+    "ingredients": [
+      "Bột bánh mì: 2 bát",
+      "Nước ấm: nửa chén",
+      "Sữa bột không béo: 30 grams",
+      "Bơ mềm: 30 grams",
+      "Kẹo chocolate giã nhỏ: 200 grams",
+      "Chocolate nguyên khối: 230 grams",
+      "Đường trắng: 1 muỗng canh",
+      "Muối: nửa muỗng cà phê",
+      "Men bánh: 2 muỗng cà phê",
+      "Sữa tươi: 1 muỗng canh",
+      "Trứng: 1 cái để lấy lòng đỏ"
+    ],
+    "intruction": [
+      "Dùng máy trộn bột trộn đều bột mì, nước, sữa bột không béo rồi thêm tiếp muối, đường, bơ mềm và men nở vào trộn",
+      "Trong thời gian trộn bột, bạn cắt giấy nướng thành từng hình chữ nhật, phết một lớp bơ lên bề mặt giấy nướng, đặt vào khuôn rồi để lạnh",
+      "Bạn cho một lớp bột mỏng lên mặt phẳng, cho bột đã đánh ra mặt phẳng rồi cán thành hình chữ nhật, sau đó chia bột ra làm hai rồi cho vào tủ lạnh ủ 20 phút",
+      "Lấy bột ra khỏi tủ lạnh, tiếp tục cán mỏng thành hình chữ nhật rồi gấp lại thành 3 phần, bọc màng thực phẩm và để lại vào tủ lạnh 30 phút",
+      "Sữa, trứng bạn cho vào một bát nhỏ đánh đều để riêng",
+      "Lấy bột đang ủ trong tủ lạnh ra, cán thành hình chữ nhật rồi cắt bột thành từng phần nhỏ",
+      "Chocolate bạn cắt khối hình chữ nhật nhỏ hơn chiều dài của miếng bột rồi đặt lên miếng bột. Sau đó bạn cuộn từng miếng bột lại",
+      "Tiếp đến, bạn phết hỗn hợp trứng vào viền của mỗi tấm bột rồi đè chặt để các mếp dính lại.",
+      "Bạn đặt bánh lên tấm nướng lót sẵn giấy nướng và ủ tiếp 30 phút để bánh nở gấp đôi. Bật lò nướng để nhiệt độ lò đạt mức 200 độ C",
+      "Sau khi bánh nở gấp đôi, bạn phết tiếp lòng đỏ trứng lên bánh và cho vào lò nướng, nướng 15 phút để bánh chín và có màu vàng hơi nâu rồi để nguội, trang rí thêm chocolate tan chảy",
+      "Khi thưởng thức bánh, bạn có thể thưởng thức cùng sữa tươi, trái cây tươi hoặc kem tươi."
+    ],
+    "link": "https://www.youtube.com/watch?v=JSTI0AXEstc"
+  },
+  {
+    "id": 5,
+    "title": "BÊ XÀO SẢ ỚT",
+    "description": "Bê xào sả ớt được chế biến từ thịt bê đậm đà, mềm ngọt quyện lẫn vị cay se của ớt, thơm nhẹ của sả cùng một số nguyên liệu khác",
+    "img": "https://i-vnexpress.vnecdn.net/2019/09/17/1677635393-w500-4249-1568695014.png",
+    "cuisine": [
+      "VIETNAM"
+    ],
+    "ingredients": [
+      "Thịt bê: 500 grams",
+      "Xốt gia vị xào sả ớt: 800 grams",
+      "Ớt chuông xanh đỏ vàng: 250 grams",
+      "Sả, ỏi, ớt, hành tím, vừng rang"
+    ],
+    "intruction": [
+      "Cắt lát ớt chuông. Băm nhỏ sả, ớt, tỏi, hành tím",
+      "Cho 1/4 thìa canh tiêu (tùy thích) vào 500g thịt bê và ướp với 1 gói xốt Gia Vị Xào sả ớt 80g trong vòng 30 phút.",
+      "Phi thơm hành, tỏi, ớt, sả đã băm nhuyễn,  cho thịt bê đã ướp vào xào đến khi thịt gần chín, sau đó cho ớt chuông vào xào đến khi ớt chuông vừa chín tới.",
+      "Bỏ thịt ra dĩa, rắc thêm vừng rang  và thưởng thức"
+    ],
+    "link": "https://www.youtube.com/watch?v=_2XvFUVvcCU"
+  },
+  {
+    "id": 6,
+    "title": "NƯỚNG NHẬT YAKINIKU",
+    "description": "Thịt nướng là một món ăn quen thuộc và là sự lựa chọn của nhiều người, nhất là vào những ngày trời se lạnh với công thức cực kì đơn giản, không mất nhiều thời gian.",
+    "img": "https://i-ngoisao.vnecdn.net/2014/01/04/Unilever-4-5377-1388821700.jpg",
+    "cuisine": [
+      "JAPAN"
+    ],
+    "ingredients": [
+      "Ba chỉ heo/ ba chỉ bò/ chóp vai bò: 500 grams",
+      "Gói gia vị hoàn chỉnh  Nướng Nhật Yakiniku",
+      "Ớt chuông xanh, đỏ, hành tây, rau"
+    ],
+    "intruction": [
+      "Ướp 500g thịt với 1 gói xốt gia vị hoàn chỉnh Barona – nướng Nhật Yakiniku trong vòng 30 phút",
+      "Quết 1 lớp dầu ăn lên bếp",
+      "Cho Thịt đã ướp lên bếp và nướng. Cuối cùng là thưởng thức"
+    ],
+    "link": "https://www.youtube.com/watch?v=9iyiGVO81as"
+  },
+  {
+    "id": 7,
+    "title": "MÌ QUẢNG  ",
+    "description": "Mì Quảng – món ăn đặc sắc của vùng Quảng Nam với thịt gà dai dòn, mùi thơm nồng của rau, vị béo ngậy của thịt của dầu, hương thơm của đậu phộng, chất giòn béo của bánh tráng ... đã trở thành món ăn tinh túy  của những người con miền Trung.",
+    "img": "https://media.cooky.vn/recipe/g1/4027/s480x480/recipe4027-prepare-step5-635718691965609697.jpg",
+    "cuisine": [
+      "VIETNAM"
+    ],
+    "ingredients": [
+      "Cánh gà: 500 grams",
+      "Tôm tươi: 200 grams",
+      "Trứng cút: 10 quả",
+      "Mì Quảng vàng: 1 kilogram",
+      "Bánh tráng nướng",
+      "Hành tây: 1/2 củ",
+      "Bột nghệ: 10 grams",
+      "Dầu điều: 40 ml",
+      "Ớt bột: 5 gr",
+      "Muối: 3 grams",
+      "Đường: 15 grams",
+      "Bột nêm: 40 grams",
+      "Nước mắm: 40ml",
+      "Dầu hào: 10ml",
+      "Hành tím, tỏi, củ nén",
+      "Bánh tráng nướng",
+      "Rau ăn kèm: giá, bắp chuối bào, ngò tàu…",
+      "Nghệ tươi"
+    ],
+    "intruction": [
+      "Tỏi, hành tím lột vỏ, đập dập, băm nhuyễn.",
+      "Cánh gà chặt miếng vừa ăn",
+      "Xương gà xương lợn rửa sạch, chần qua nước sôi và rửa lại bằng nước lạnh",
+      "Tôm tươi cắt bỏ phần râu và mắt",
+      "Pha hỗn hợp ướp thịt và tôm: cho nghệ tươi, hành băm, tỏi băm, tiêu, bột nghệ, muối, đường, bột ngọt, hạt nêm, màu hạt đều",
+      "Cho ½ hỗn hợp ướp vào tôm ướp trong khoảng 20 phút",
+      "Còn ½ hỗn hợp ta cho vào 1 ít nước mắm vào ướp thịt gà ướp trong 20 phút",
+      "Trứng cút luộc chín rồi bóc vỏ, để riêng",
+      "Đặt chảo lên bếp, cho 1 ít tỏi đã băm nhuyễn vào .Sau đó, cho toàn bộ phần tôm vào xào chín trong khoảng 3 phút. Lấy phần tôm ra",
+      "Tiếp tục cho gà vào xào săn đổ nước dùng vào chảo đang xào thịt cho ngập thịt rồi",
+      "Thả trứng gà và tôm vào, tiếp tục nấu thêm 20 phút nữa nêm lại cho vừa ăn nữa là xong.",
+      "Cho mì Quảng vào tô, đặt tôm, trứng, thịt đã làm chín lên trên. Đổ một chút nước kho và nước dùng cho ngập mặt mì. Sau đó bày ra đĩa bánh tráng nướng, đậu phộng, hành lá và các loại rau tươi ăn kèm."
+    ],
+    "link": "https://www.youtube.com/watch?v=TTWTwhV9Zx0"
+  },
+  {
+    "id": 8,
+    "title": "BÚN BÒ HUẾ",
+    "description": "Nói đến món bún bò Huế thì chắc chắn phải đặt chân đến xứ Huế mới có thể thưởng thức được tô bún bò đúng hương vị đặc trưng của món ăn này. Đối với những tín đồ của món bún bò Huế thì việc học cách nấu bún bò Huế luôn được quan tâm.",
+    "img": "https://vcdn-ngoisao.vnecdn.net/2018/01/19/1-8515-1516314392.jpg",
+    "cuisine": [
+      "VIETNAM"
+    ],
+    "ingredients": [
+      "Chân giò heo, chọn phần chân giò trước: 1 kilograms",
+      "Bò bắp (bắp hoa sẽ ngon hơn): 700 grams",
+      "Muối hột: 1 chén",
+      "Mắm ruốc Huế: 100 grams",
+      "Mía lau: 1 cây",
+      "Sả: 5 củ",
+      "Gừng già: 1 củ",
+      "Hành tím: 50 grams",
+      "Tiêu xay: 2 thìa cà phê",
+      "Nước mắm (Nước mắm cao cấp vị xưa): 1 chén",
+      "Bún tươi sợi to: 4 kg",
+      "Huyết (bò hoặc heo): 100 grams",
+      "Chả Huế: 250 grams"
+    ],
+    "intruction": [
+      "Hành tím, sả, gừng, mía lau: rửa thật sạch, dùng dao đập dập sả, gừng thái sợi và cắt khúc mía lau",
+      "Phần chân giò heo cạo sạch lông, bỏ phần móng và rửa thật sạch rồi ngâm vào nước muối từ 1-2 tiếng đồng hồ. Sau đó vớt ra để ráo rồi chặt từng khúc nhỏ",
+      "Huyết thái từng khúc lớn vừa ăn, chả lụa cắt làm hai rồi thái lát mỏng",
+      "Trước tiên cho nồi nước hầm mía lau lên bếp rồi đun sôi, cho thịt bò vào nồi. Trong quá trình nấu bọt sẽ nổi lên nhiều, vì vậy bạn cần canh chừng để vớt bọt ra cho nước được trong",
+      "Cho phần chân giò vào nồi cùng với các gia vị như: hành, sả, nước ruốc, muối ăn, gừng,…",
+      "Khi thấy thịt bò đã chín đều thì vớt ra đĩa, để nguội và thái lát theo sớ thịt để tránh bị nát thịt. Chân giò khi đã chín cũng nên vớt ra, nếu không thịt sẽ bị nhừ, mềm. Cuối cùng, nêm nếm lại nồi nước dùng cho vừa ăn rồi tắt bếp.",
+      "Trong suốt thời gian nấu phải canh chừng để vớt bọt thường xuyên, có như vậy nồi nước lèo mới trong.",
+      "Thịt bò và thịt heo nên vớt ra ngay sau khi đã chín, tránh nấu lâu thịt sẽ bị quá mềm và nhừ."
+    ],
+    "link": "https://www.youtube.com/watch?v=r__QwiC9YvM"
+  },
+  {
+    "id": 9,
+    "title": "BÒ NGŨ VỊ CUỘN RAU CỦ",
+    "description": "Thịt bò ngũ vị cuộn rau củ không những đem lại bạn cảm giác ngon miệng mà còn giúp bạn có được bữa ăn tốt cho sức khỏe và không nhàm chán! Cùng barona.vn thực hiện ngay bí quyết nấu ngon này nhé",
+    "img": "https://barona.vn/uploads/food/details/thit%20bo%20ngu%20vi%20cuon%20rau%20cu_avatar.jpg",
+    "cuisine": [
+      "VIETNAM"
+    ],
+    "ingredients": [
+      "Thịt bò: 500 grams",
+      "Gia vị thịt nướng ngũ vị: 1 gói",
+      "Dầu ăn",
+      "Bí ngòi xanh: 100 grams",
+      "Ớt chuông vàng: 100 grams",
+      "Cà rốt: 100 grams",
+      "Cần tây: 100 grams",
+      "Mè rang: 5 grams",
+      "Hành lá: 10 grams"
+    ],
+    "intruction": [
+      "Thịt bò thái lát mỏng",
+      "Sau đó ướp với 1 muỗng canh dầu ăn và 1 gói xốt gia vị thịt nướng ngũ vị trong vòng 30 phút",
+      "Cắt sợi bí ngòi xanh, ớt chuông vàng, hành tây, cà sốt và trụng sơ qua nước sôi",
+      "Cuộn rau củ đã trụng với thịt bò đã ướp sẵn (Tips: định hình thịt bằng tăm)",
+      "Nướng thịt: dùng dầu ăn để chống dính cho vỉ nướng, nướng thịt chín sơ và phết thêm 1 lớp xốt gia vị hoàn chỉnh Barona – ngũ vị, tiếp tục cho thêm 1 ít mè rang và nướng chín. Cuối cùng, thưởng thức và dùng với cơm gạo lức sẽ rất ngon và tốt cho sức khỏe"
+    ],
+    "link": "https://www.youtube.com/watch?v=e1M4ZfzRwhs&t=1s"
+  },
+  {
+    "id": 10,
+    "title": "BÚN CHẢ HÀ NỘI",
+    "description": "Bún chả Hà Nội là món ăn đặc trưng của người miền Bắc. Sở hữu hương vị thơm ngon đặc trưng, bún chả hiện không chỉ được người Việt Nam ưa thích mà còn chinh phục được rất nhiều vị khách quốc tế.",
+    "img": "https://delightfulplate.com/wp-content/uploads/2018/08/Vietnamese-Grilled-Pork-Meatballs-with-Vermicelli-Noodles-Bun-Cha-2.jpg",
+    "cuisine": [
+      "VIETNAM"
+    ],
+    "ingredients": [
+      "Thịt ba chỉ: 500 grams",
+      "Thịt nạc vai: 400 grams",
+      "Chanh, ớt, tỏi, hành tím, đầu hành",
+      "Su hào, cà rốt",
+      "Gia vị: tiêu, nước hàng, xì dầu đen, dầu hào, nước mắm, dầu ăn, nước tương, mật ong",
+      "Rau Thơm",
+      "Bún"
+    ],
+    "intruction": [
+      "Thịt ba chỉ thái thành những miếng vừa ăn. Thịt nạc vai đem thái mỏng và băm rối.",
+      "Hành tím, đầu hành, tỏi đập dập, băm nhuyễn rồi chia thành đôi, cho vào 2 phần thịt lợn.",
+      "Tiếp tục cho vào mỗi phần thịt lợn một thìa canh nước hàng hoặc xì dầu đen, 1 thìa canh dầu hào, 1 thìa canh nước mắm, ½ thìa canh đường vàng, 1 muỗng canh nước tương, 1 muỗng canh mật ong và 1 chút tiêu xay.",
+      "Trộn đều để cho các gia vị thấm sâu rồi cho vào tủ lạnh để trong khoảng 3 – 4 tiếng.",
+      "Phần thịt vai băm, bạn làm thành hình tròn dẹt rồi đem nướng chín. Phần thịt ba thái miếng vừa ăn cũng vậy.",
+      "Cà rốt, su hào gọt vỏ rồi rửa sạch, để ráo. Cà rốt thái tròn mỏng, su hào thái vuông mỏng. Sau đó, cho chung vào một âu và cùng 1 chút muối ăn rồi xóc đều.  ",
+      "Ngâm cà rốt, su hào với muối trong khoảng 15 – 20 phút. Sau đó, đem rửa sạch rồi để ráo nước.",
+      "Cho ½ muỗng canh tỏi băm, ½ muỗng canh giấm, 2 muỗng canh đường rồi đảo đều đến khi đường tan rồi cho thêm chút ớt băm vào.",
+      "Các loại rau thơm bạn đem ngâm với nước muối loãng trong chừng 10 – 15 phút. Sau đó, đem rửa sạch rồi cho ra rổ để ráo nước.",
+      "Chuẩn bị một bát nhỏ, múc 10 thìa canh nước lọc và cho 2 thìa canh đường, 2 thìa canh nước mắm vào khuấy đều cho đến khi đường tan.",
+      "Tiếp tục cho 3 muỗng canh nước cốt chanh, 1 muỗng canh đường, 1 muỗng cà phê tỏi băm, 1 muỗng cà phê ớt rồi khuấy đều lên."
+    ],
+    "link": "https://www.youtube.com/watch?v=ulZDZEo02qE"
+  },
+  {
+    "id": 11,
+    "title": "VỊT QUAY BẮC KINH",
+    "description": "Vịt quay Bắc Kinh là một đặc sản nổi tiếng của vùng Đông Bắc, Trung Quốc, nhất là ở Bắc Kinh. Nguyên liệu chính được lựa chọn làm món này là vịt nuôi ở Bắc Kinh. Đặc điểm nổi bật làm nên thương hiệu trứ danh của món vịt quay này chính là da vịt rất mỏng, giòn tan, có màu vàng cánh gián vô cùng thơm ngon và bắt mắt.",
+    "img": "https://maynholongvit.vn/wp-content/uploads/2019/02/cach-pha-nuoc-cham-vit-5.jpg",
+    "cuisine": [
+      "CHINESE"
+    ],
+    "ingredients": [
+      "Vịt: 1 con",
+      "Dấm trắng: 2 muỗng cafe",
+      "Canh dầu hào: 4 muỗng canh",
+      "Ngũ vị hương: 1.5   muỗng cafe",
+      "Đường mạch nha: 3 muỗng canh",
+      "Rượu nấu ăn: 3 muỗng canh",
+      "Tương đậu nành ngọt: 2 muỗng canh",
+      "Vừng: 1 muỗng canh"
+    ],
+    "intruction": [
+      "Vịt mua về bạn nên nhờ người bán làm làm lông, mổ rồi làm thật sạch ruột bên trong để tiết kiệm thời gian chế biến ở nhà.",
+      "Cho dấm vào trong nước, cho vịt vào ngâm trong 1 giờ. Sau đó dùng dây buộc vịt vào sợi dây, treo vịt lên để cho khô, ráo nước",
+      "Trộn 4 muỗng canh dầu hào vào 1½ muỗng canh rượu nấu ăn và 1.5 muỗng cà phê ngũ vị hương. Sau đó, phết hỗn hợp sốt này vào trong bụng vịt. Lưu ý phết thật đều để khi quay, gia vị ngấm đều vào từng thớ thịt của vịt",
+      "Trong bát khác, trộn 3 muỗng canh đường mạch nha, với 3 muỗng canh nước nóng và 1 muỗng canh dấm trắng. Sau đó phết hỗn hợp gia vị này lên khắp bề mặt da của vịt. Hỗn hợp này giúp cho da vịt sẽ có màu vàng sậm như cánh gián và giòn",
+      "Sau 30 phút lại phết lại 1 lần nữa. Sau đó dùng lạt hoặc que xiên tre khâu kín bụng vịt lại để khi treo vịt hoặc quay vịt nước sốt bên trong không bị chảy mất ra ngoài.",
+      "Sau đó bạn treo vịt lên ở nơi khô ráo, thoáng mát. Nếu là mùa đông bạn có thể treo vịt lên trong 24 giờ. Còn riêng mùa hè, nếu treo lâu vịt sẽ bị ôi thiu, vì thế chỉ nên treo 5-6 tiếng.",
+      "Đun nóng một nồi dầu ăn, sau đó một tay cầm phần cổ vịt, một tay dùng muôi múc dầu ăn nóng rưới lên vào da vịt cho da vịt nóng giòn. Cẩn thận bị bỏng tay.",
+      "Cứ rưới đều tay và liên tục cho dầu ăn ngấm vào da vịt làm da vịt thật giòn là được.",
+      "Sau khi xối dầu để tạo độ giòn cho da vịt, bạn treo vịt lên cho ráo dầu, để nguội bớt rồi thái thành từng miếng nhỏ.",
+      "Vịt bạn có thể băm thành từng miếng vừa ăn hoặc lọc riêng thịt ra bằng cách khứa một đường quanh ức và bụng bịt. Dùng dao khứa đôi vịt dọc theo bụng vịt.",
+      "Nước Chấm: cho 2 muỗng canh tương đậu nành ngọt và 1 muỗng canh vừng vào 1 bát, trộn đều là xong."
+    ],
+    "link": "https://www.youtube.com/watch?v=-qIiMY2viPo"
+  },
+  {
+    "id": 12,
+    "title": "HOÀNH THÁNH",
+    "description": "Có nguồn gốc từ Trung Hoa nhưng ngày nay, hoành thánh đã trở thành món ăn quen thuộc của người Việt Nam bởi hương vị thơm ngon, hấp dẫn. Từng chiếc hoành thánh với lớp vỏ dai mềm bao bọc nhân tôm thịt béo bùi bên trong, ăn cùng thịt xá xíu và nước dùng gà ngọt thanh, thêm vị ngai ngái đặc trưng của lá hẹ, vị ngon rất khó diễn tả.",
+    "img": "https://stagingimg.gkitchen.com.vn/recipes/recipeImages-1550750827497.png",
+    "cuisine": [
+      "CHINESE"
+    ],
+    "ingredients": [
+      "Thịt vai: 300g",
+      "Thịt nạc dăm: 200g",
+      "Tôm tươi: 200g",
+      "Tôm khô: 20g",
+      "Xương gà: 2 bộ",
+      "Vỏ hoành thánh: 200g ",
+      "Lá hẹ: 1 bó nhỏ",
+      "Xốt ướp xá xíu: ½ gói",
+      "Sữa tươi: khoảng 100ml",
+      "Hành khô",
+      "Tỏi khô",
+      "Các gia vị thường dùng: mắm, muối, hạt tiêu…"
+    ],
+    "intruction": [
+      "Thịt vai rửa sạch, đem chần sơ với nước sôi rồi ướp cùng nước xốt, bột ngọt, hạt tiêu và sữa tươi. Cho thịt vào ngăn mát tủ lạnh ít nhất 3 tiếng để thịt thấm gia vị.",
+      "Tỏi khô đập dập, băm nhỏ.",
+      "Phi thơm tỏi với chút dầu ăn rồi cho thịt đã ướp, nước ướp vào nồi nấu. Khi nước xốt sôi, bạn hạ lửa nhỏ cho thịt chín dần.",
+      "Khi thịt chín, gắp thịt cho vào lò nướng đã làm nóng sẵn, nướng thịt khoảng 10 phút với nhiệt độ 200 độ C rồi lấy ra.      ",
+      " Đợi thịt nguội, cắt thành những miếng mỏng",
+      " Xương gà rửa sạch, chặt nhỏ, chần sơ với nước sôi rồi cho vào nồi khác, đổ nước vào hầm trong khoảng 30 phút. Lọc lấy phần nước dùng để riêng.",
+      "Hành khô đập dập, băm nhỏ.",
+      "Thịt nạc dăm rửa sạch, chần sơ, để ráo rồi băm nhuyễn. Ướp thịt với hành tím, bột ngọt, hạt tiêu.",
+      "Tôm tươi rửa sach, lột vỏ, bỏ đầu, lấy chỉ đen ở sống lưng cho tôm bớt tanh. Ướp tôm với hành tím, bột ngọt, hạt tiêu.",
+      "Trải miếng vỏ hoành thánh lên một mặt phẳng, múc thịt heo dàn mỏng rồi cho một con tôm, một hạt tiêu và giữa (bạn có thể không dùng hạt tiêu). Bóp hai mép để định hình hoành thánh, làm lần lượt cho tới hết.",
+      "Lá hẹ rửa sạch, cắt khúc ngắn.",
+      "Tôm khô ngâm nước ấm cho mềm.",
+      "Phi thơm tỏi và tôm khô, cho tất cả vào nồi nước dùng gà rồi nấu lại. Khi nước dùng sôi, lần lượt cho hoành thánh vào nồi. Hoành thánh nổi lên là chín, bạn nêm nếm vừa ăn rồi tắt bếp.",
+      "Múc hoành thánh và nước dùng ra tô, thêm thịt xá xíu, lá hẹ lên trên rồi ăn nóng."
+    ],
+    "link": "https://www.youtube.com/watch?v=hpO1NnfxTg0"
+  },
+  {
+    "id": 13,
+    "title": "Naengmyeon",
+    "description": "Mì lạnh Hàn Quốc được xem là món ăn yêu thích của cả người Hàn Quốc và Triều Tiên. Tại đây, mì lạnh được chia thành nhiều loại khác nhau tuy nhiên phổ biến hơn cả vẫn là Naengmyeon, với đặc trưng sợi mì mỏng, dài, dai ngon, làm từ hỗn hợp bột kiều mạch, bột khoai tây bột khoai lang, bột củ dong và bột sắn dây   ",
+    "img": "https://thongtinhanquoc-com.exactdn.com/wp-content/uploads/2013/03/bbimnaengmyun-e1279254888348.jpg?strip=all&lossy=1&quality=90&ssl=1",
+    "cuisine": [
+      "KOREAN"
+    ],
+    "ingredients": [
+      "180g mì sợi Naengmyeon",
+      "1/4 quả dưa chuột",
+      "20g lê",
+      "20g củ cải",
+      "1/2 thìa cà phê ớt bột",
+      "1 quả trứng gà",
+      "50 thịt gầu bò,",
+      "1/2 cây boa rô,",
+      "5 nhánh tỏi,",
+      "5 cốc nước,",
+      "1/4 thìa nước tương Ganjang",
+      "Đường, muối, giấm, mù tạt vàng."
+    ],
+    "intruction": [
+      "Thịt gầu bò sau khi mua về, bạn rửa sạch. Sau đó, cho vào nồi cùng 5 nhánh tỏi, 1/2 cây boa rô đun trên lửa to trong khoảng 20 phút, rồi vặn nhỏ lửa đun liu riu thêm 40 phút nữa. Tiếp theo, bạn vớt thịt ra, để nguội rồi thái với kích cỡ 4x2x0,2 cm. Phần nước luộc bạn lọc lại và nêm gia vị theo tỷ lệ sau: 1/4 thìa nước tương Ganjang, 1/2 thìa muối, 1 thìa đường kính, ½ thìa giấm, 1 thìa cà phê mù tạt vàng để nguội làm nước dùng cho món mì.",
+      "Rửa sạch dưa chuột, bổ đôi, thái chéo dày khoảng 0,2 cm rồi ngâm với nước muối trong vòng 20 phút. Sau khi ngâm xong, bạn vớt ra dùng tay vắt thật ráo nước.",
+      "Củ cải gọt bỏ vỏ, thái theo kích cỡ 5×1,5×0,2cm rồi ngâm với 1/4 thìa cà phê muối, 1/2 thìa cà phê đường, 1/2 thìa cà phê ớt bột xay mịn và 1/2 thìa giấm trong 20 phút.",
+      "Lấy 1/4 quả lê, gọt bỏ vỏ thái mỏng và ngâm vào nước đường.",
+      "Cho quả trứng gà vào nước lạnh với 1/2 thìa cà phê muối, vừa đun vừa lăn tròn trong nước. Cách làm này giúp cho lòng đỏ trứng sẽ ở vị trí trung tâm khi chín. Trứng chín, bạn vớt ra rồi thả vào nước lạnh, bóc vỏ và cắt làm đôi.",
+      "Mì sợi Naengmyeon, bạn luộc bằng nước sôi trong vòng 2-3 phút, cho thêm 1/2 thìa muối vào. Sau khi mì đã luộc chín, bạn đổ mì ra rổ, xả dưới vòi nước lạnh. Sau đó, cho ngay mì vào thau nước đá, vò nhẹ tay và vắt thật ráo nước.",
+      "Cuộn mì thành từng nắm nhỏ rồi cho vào giữa bát. Bên trên, bạn xếp dưa chuột, lê, củ cải đã sơ chế và thịt thái lát, rồi múc nước dùng lạnh đổ vào và thưởng thức."
+    ],
+    "link": "https://www.youtube.com/watch?v=ceDLPL4RJW0"
   }
 ]

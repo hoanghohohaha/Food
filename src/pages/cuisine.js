@@ -42,9 +42,9 @@ const Cuisine = ({ match }) => {
           <Grid>
             <Typography className={classes.text}>{match.params.cuisineId.toUpperCase()}</Typography>
           </Grid>
-          <Grid container justify='space-evenly'>
+          <Grid container spacing={4} justify='space-evenly'>
             {data.map(e =>
-              <Grid item xs={3} key={e.id}><ResultCard props={e} /></Grid>
+              <Grid item xs={4} key={e.id}><ResultCard props={e} /></Grid>
             )}
           </Grid>
           <Grid>

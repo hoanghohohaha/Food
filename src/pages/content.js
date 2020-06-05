@@ -70,7 +70,7 @@ const Category = ({ match }) => {
 
   data.cuisine.map((e, index) => {
     console.log(e);
-    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/#/cuisine/` + e} className={classes.btn}><Link>{e}</Link></Button></Grid>];
+    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/cuisine/` + e} className={classes.btn}><Link>{e}</Link></Button></Grid>];
   })
 
   data.ingredients.map((e, index) => {
