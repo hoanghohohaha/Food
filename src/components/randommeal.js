@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Grid, Typography, Link } from '@material-ui/core';
+import { Button, Grid, Typography, Link, Avatar } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import Food from '../data/Food.json'
 
@@ -8,6 +8,7 @@ const useStyles = makeStyles((theme) => ({
     borderRadius: '100%',
     width: theme.spacing(50),
     height: theme.spacing(50),
+    margin: 'auto'
   },
   steps: {
     width: '90%',
@@ -55,7 +56,7 @@ function Randommeal(props) {
 
   props.props.cuisine.map((e, index) => {
     console.log(e);
-    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/cuisine/` + e} className={classes.btn}><Link>{e}</Link></Button></Grid>];
+    cuisine = [...cuisine, <Grid item xs={2} key={index}><Button href={`/cuisine/` + e + `#`} className={classes.btn}><Link>{e}</Link></Button></Grid>];
   })
 
   props.props.ingredients.map((e, index) => {
@@ -71,7 +72,7 @@ function Randommeal(props) {
 
   return (
     <div id='random' props={props}>
-      <img className={classes.RandomImg} alt='' src={props.props.img}></img>
+      <Avatar className={classes.RandomImg} alt='' src={props.props.img}></Avatar>
       <Grid>
         <Typography className={classes.header}>{props.props.title}</Typography>
       </Grid>

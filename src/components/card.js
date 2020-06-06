@@ -38,7 +38,7 @@ function ResultCard(props) {
         <Avatar className={classes.avatar} src={props.props.img}></Avatar>
         <CardContent>
           <Typography>
-            <Link className={classes.title} to={`/meal/` + props.props.id}>{props.props.title}</Link>
+            <Link className={classes.title} to={`/meal/` + props.props.id + `#`} >{props.props.title}</Link>
           </Typography>
           <Typography className={classes.des}>
             {props.props.description}

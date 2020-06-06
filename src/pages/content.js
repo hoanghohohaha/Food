@@ -1,6 +1,6 @@
 import React from "react";
 import Food from '../data/Food.json';
-import { Button, Grid, Typography, Link } from '@material-ui/core';
+import { Button, Grid, Typography, Link, Avatar } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyle = makeStyles((theme) => ({
@@ -8,7 +8,8 @@ const useStyle = makeStyles((theme) => ({
     borderRadius: '100%',
     width: theme.spacing(50),
     height: theme.spacing(50),
-    marginTop: theme.spacing(5)
+    marginTop: theme.spacing(5),
+    margin: 'auto'
   },
   steps: {
     width: '70%',
@@ -57,6 +58,7 @@ const useStyle = makeStyles((theme) => ({
 }))
 
 const Category = ({ match }) => {
+  document.documentElement.scrollTop = 0
   const classes = useStyle();
   const data = Food.find(category => {
     return parseInt(match.params.id) === category.id;
@@ -87,7 +89,7 @@ const Category = ({ match }) => {
     <>
       {match.isExact && (
         <>
-          <img className={classes.RandomImg} alt='' src={data.img}></img>
+          <Avatar className={classes.RandomImg} alt='' src={data.img}></Avatar>
           <h1>{data.title}</h1>
           <Grid>
             <Typography className={classes.description}>{data.description}</Typography>

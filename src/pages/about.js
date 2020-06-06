@@ -61,7 +61,7 @@ export default function About() {
       </Grid>
       <hr className={classes.hr}></hr>
       <Grid id='contact'>
-        <iframe className={classes.map} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1862.1190652347232!2d105.81244065825418!3d21.023155750170584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x39e02f427f6f3b62!2sMindX%20Technology!5e0!3m2!1sen!2s!4v1591022049191!5m2!1sen!2s"></iframe>
+        <iframe title='map' className={classes.map} src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1862.1190652347232!2d105.81244065825418!3d21.023155750170584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x39e02f427f6f3b62!2sMindX%20Technology!5e0!3m2!1sen!2s!4v1591022049191!5m2!1sen!2s"></iframe>
       </Grid>
       <Grid container justify='space-evenly' id='team'>
         <Grid item xs={4}>
